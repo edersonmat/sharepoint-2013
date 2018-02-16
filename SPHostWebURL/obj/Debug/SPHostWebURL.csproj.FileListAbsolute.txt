@@ -1,0 +1,3 @@
+c:\users\ederson\documents\visual studio 2013\Projects\SPHostWebURL\SPHostWebURL\bin\Debug\SPHostWebURL.pdb
+c:\users\ederson\documents\visual studio 2013\Projects\SPHostWebURL\SPHostWebURL\obj\Debug\SPHostWebURL.dll
+c:\users\ederson\documents\visual studio 2013\Projects\SPHostWebURL\SPHostWebURL\obj\Debug\SPHostWebURL.pdb
